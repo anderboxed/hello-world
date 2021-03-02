@@ -1,5 +1,5 @@
 /*****
- * Edit this line to have your name.
+ * Andy Bounxayavong
  ******/
 public class GitDemo {
     
@@ -14,7 +14,7 @@ public class GitDemo {
     *****/
     public double addNumber(double num) {
         System.out.print("Add num to previousNumber");
-        return 0;
+        return (num + previousNumber);
     }
     
     /*****
